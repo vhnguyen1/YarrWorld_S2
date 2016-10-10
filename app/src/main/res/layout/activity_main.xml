@@ -35,5 +35,6 @@
         android:text="@string/button_text"
         android:id="@+id/speakButton"
         android:layout_gravity="center_horizontal"
-        android:layout_weight="1" />
+        android:layout_weight="1"
+        android:onClick="shimberText" />
 </LinearLayout>
